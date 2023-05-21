@@ -5,6 +5,10 @@
   "version": "0.0.1",
   "publisher": "Max",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NqMax/vscode-stardew-valley-icon-theme.git"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
