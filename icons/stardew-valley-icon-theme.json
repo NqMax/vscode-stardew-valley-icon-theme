@@ -1,0 +1,194 @@
+{
+    "iconDefinitions": {
+        "_file_default": {
+            "iconPath": "./Void_Chicken.png"
+        },
+        "_folder_default": {
+            "iconPath": "./Bin_Closed.png"
+        },
+        "_folder_expanded_default": {
+            "iconPath": "./Bin_Opened.png"
+        },
+        "_javascript_file": {
+            "iconPath": "./Golden_Chicken.png"
+        },
+        "_markdown_file": {
+            "iconPath": "./Duck_Feather.png"
+        },
+        "_node_package": {
+            "iconPath": "./Golden_Relic.png"
+        },
+        "_typescript_file": {
+            "iconPath": "./Squid.png"
+        },
+        "_tsx_file": {
+            "iconPath": "./Midnight_Squid.png"
+        },
+        "_json_file": {
+            "iconPath": "./Magic_Ink.png"
+        },
+        "_node_package.lock": {
+            "iconPath": "./Golden_Key.png"
+        },
+        "_typescript_config": {
+            "iconPath": "./Snow_Yam.png"
+        },
+        "_README_file": {
+            "iconPath": "./Lost_Book.png"
+        },
+        "_CHANGELOG_file": {
+            "iconPath": "./Pierre's_Missing_Stocklist.png"
+        },
+        "_text_file": {
+            "iconPath": "./Secret_Note.png"
+        },
+        "_ignore_file": {
+            "iconPath": "./Warp_Totem_Beach.png"
+        },
+        "_ignore_git_file": {
+            "iconPath": "./Warp_Totem_Mountains.png"
+        },
+        "_ignore_eslint_file": {
+            "iconPath": "./Warp_Totem_Farm.png"
+        },
+        "_root_folder": {
+            "iconPath": "./iridium_Bat_Anim.gif"
+        },
+        "_root_folder_expanded": {
+            "iconPath": "./iridium_Bat_Anim.gif"
+        },
+        "_license_file": {
+            "iconPath": "./Dwarf_Scroll_III.png"
+        },
+        "_test_file": {
+            "iconPath": "./Magnifying_Glass.png"
+        },
+        "_png_file": {
+            "iconPath": "./StatusWindFall.png"
+        },
+        "_jpeg_file": {
+            "iconPath": "./StatusWindSpring.png"
+        },
+        "_svg_file": {
+            "iconPath": "./StatusFestival.png"
+        },
+        "_gif_file": {
+            "iconPath": "./StatusStorm.png"
+        },
+        "_map_file": {
+            "iconPath": "./Iridium_Sprinkler.png"
+        },
+        "_html_file": {
+            "iconPath": "./Brown_Chicken.png"
+        },
+        "_css_file": {
+            "iconPath": "./Blue_Chicken.png"
+        },
+        "_jsx_file": {
+            "iconPath": "./Blue_Chicken.png"
+        },
+        "_ico_file": {
+            "iconPath": "./StatusWedding.png"
+        },
+        "_ttf_file": {
+            "iconPath": "./Mail.png"
+        },
+        "_yarn_lock": {
+            "iconPath": "./Cat.png"
+        },
+        "_toml_file": {
+            "iconPath": "./Rare_Disc.png"
+        },
+        "_prettier_file": {
+            "iconPath": "./Stardrop.png"
+        },
+        "_eslint_file": {
+            "iconPath": "./Galaxy_Soul.png"
+        },
+        "_lock_file": {
+            "iconPath": "./Rusty_Key.png"
+        },
+        "_CONTRIBUTING_file": {
+            "iconPath": "./Quests_Icon.png"
+        },
+        "_config_file": {
+            "iconPath": "./Starfruit.png"
+        },
+        "_sh_file": {
+            "iconPath": "./Dwarf_Gadget.png"
+        },
+        "_AUTHORS_file": {
+            "iconPath": "./Coffee.png"
+        },
+    },
+    "rootFolder": "_root_folder",
+    "rootFolderExpanded": "_root_folder_expanded",
+    "file": "_file_default",
+    "folder": "_folder_default",
+    "folderExpanded": "_folder_expanded_default",
+    "folderNames": {},
+    "fileNames": {
+        "package.json": "_node_package",
+        "package-lock.json": "_node_package.lock",
+        "pnpm-lock.json": "_node_package.lock",
+        "package-lock.yaml": "_node_package.lock",
+        "pnpm-lock.yaml": "_node_package.lock",
+        "package-lock.yml": "_node_package.lock",
+        "pnpm-lock.yml": "_node_package.lock",
+        "yarn.lock": "_yarn_lock",
+        ".package-lock.json": "_node_package.lock",
+        "tsconfig.json": "_typescript_config",
+        "README.md": "_README_file",
+        "README.txt": "_README_file",
+        "CHANGELOG.md": "_CHANGELOG_file",
+        "CHANGELOG.txt": "_CHANGELOG_file",
+        "LICENSE": "_license_file",
+        "LICENSE.md": "_license_file",
+        "LICENSE.txt": "_license_file",
+        "CONTRIBUTING": "_CONTRIBUTING_file",
+        "CONTRIBUTING.md": "_CONTRIBUTING_file",
+        "CONTRIBUTING.txt": "_CONTRIBUTING_file",
+        "AUTHORS": "_AUTHORS_file",
+        "AUTHORS.md": "_AUTHORS_file",
+        "AUTHORS.txt": "_AUTHORS_file",
+        "test": "_test_file",
+    },
+    "fileExtensions": {
+        "html": "_html_file",
+        "css": "_css_file",
+        "jsx": "_jsx_file",
+        "tsx": "_tsx_file",
+        "js": "_javascript_file",
+        "ts": "_typescript_file",
+        "md": "_markdown_file",
+        "txt": "_text_file",
+        "json": "_json_file",
+        "gitignore": "_ignore_git_file",
+        "vscodeignore": "_ignore_file",
+        "prettierignore": "_ignore_file",
+        "eslintignore": "_ignore_eslint_file",
+        "prettierrc": "_prettier_file",
+        "prettierrc.js": "_prettier_file",
+        "prettierrc.json": "_prettier_file",
+        "eslintrc": "_eslint_file",
+        "eslintrc.js": "_eslint_file",
+        "eslintrc.json": "_eslint_file",
+        "test": "_test_file",
+        "test.ts": "_test_file",
+        "test.js": "_test_file",
+        "png": "_png_file",
+        "jpg": "_jpeg_file",
+        "jpeg": "_jpeg_file",
+        "gif": "_gif_file",
+        "svg": "_svg_file",
+        "ico": "_ico_file",
+        "ttf": "_ttf_file",
+        "toml": "_toml_file",
+        "map": "_map_file",
+        "lock": "_lock_file",
+        "config": "_config_file",
+        "config.js": "_config_file",
+        "config.ts": "_config_file",
+        "sh": "_sh_file",
+    }
+}
